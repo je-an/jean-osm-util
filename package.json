@@ -1,6 +1,6 @@
 {
   "name": "jean-osm-util",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provides util methods",
   "main": "dist/jean-osm-util.js",
   "scripts": {
